@@ -14,30 +14,26 @@ class WorkExperience extends React.Component {
                     </div>
                 </div>
                 <Well>
-                    <div>
-                        <span>Design, develop, and test cloud based user interface tools for Factory Manufacturing in Server Supply Chain</span>
-                    </div>
-                    <div>
-                        <span>Understand user requirements, user feedback, and future product changes to improve factory efficiency</span>
-                    </div>
-                    <div>
-                        <span>Improve existing applications using new technologies and system architectures</span>
-                    </div>
-                    <div>
-                        <span>Work globally with multiple teams in an Agile/Scrum environment with continuous delivery</span>
-                    </div>
-                    <div>
-                        <span>Design standardized web application development process using new technology, standardized architecture, and standardized testing that adapts to future product changes, user needs, and functionality improvements</span>
-                    </div>
-                    <div>
-                        <span>Lead developer for Factory Topography Application to map different factory testing stations</span>
-                    </div>
-                    <div>
-                        <span>Developer for Test Executive for factory floor to test completed servers</span>
-                    </div>
-                    <div>
-                        <span>Developer for Cloud Appliance Configurator</span>
-                    </div>
+                    <ul>
+                        <li>
+                            Advanced factory testing by displaying more relevant information to testers based on their specifications and feedback
+                        </li>
+                        <li>
+                            Led development for Factory Topography Editor to connect services to hardware on the factory floor
+                        </li>
+                        <li>
+                            Involved with full stack design by communicating needs, changes, and performance improvements to backend and database teams
+                        </li>
+                        <li>
+                            Helped to lead the conversion to React front end applications and standardization of Github, Flux Architecture, and unit testing with Jest to improve code reliability, readability, and performance
+                        </li>
+                        <li>
+                            Continuously improved the engineering process through research to deliver faster, more sustainable code
+                        </li>
+                        <li>
+                        Worked globally with multiple teams in an Agile/Scrum environment with continuous delivery
+                        </li>
+                    </ul>
                 </Well>
                 <div className="row">
                     <div className="col-sm-8">
@@ -48,18 +44,20 @@ class WorkExperience extends React.Component {
                     </div>
                 </div>
                 <Well>
-                    <div>
-                        <span>Designed, developed, and tested Stock Market Tracking web application</span>
-                    </div>
-                    <div>
-                        <span>Implemented automated algorithms using object orientation, loop optimization, and multithreading to analyze market trends</span>
-                    </div>
-                    <div>
-                        <span>Front end web development using HTML, JavaScript, JSON, and jQuery</span>
-                    </div>
-                    <div>
-                        <span>Data storage and manipulation using MYSQL</span>
-                    </div>
+                    <ul>
+                        <li>
+                            Created first prototype product for startup company with two employees
+                        </li>
+                        <li>
+                            Full stack development of a Stock Market Tracking web application to help users determine when to buy and sell
+                        </li>
+                        <li>
+                            Researched entire web application process to build application from scratch
+                        </li>
+                        <li>
+                            Improved performance of data calculation from days to hours using loop optimization and multithreading
+                        </li>
+                    </ul>
                 </Well>
                 <div className="row">
                     <div className="col-sm-8">
@@ -70,18 +68,14 @@ class WorkExperience extends React.Component {
                     </div>
                 </div>
                 <Well>
-                    <div>
-                        <span>Developed a standardized healthcare manual for current and future employees</span>
-                    </div>
-                    <div>
-                        <span>Debug office hardware, network, and software</span>
-                    </div>
-                    <div>
-                        <span>Managed payroll</span>
-                    </div>
-                    <div>
-                        <span>IT support</span>
-                    </div>
+                    <ul>
+                        <li>
+                            Collaborated to create new standard of home healthcare manual prototype to improve employee knowledge and performance while increasing revenue for the company
+                        </li>
+                        <li>
+                            Improved office work by debugging office hardware, network, and software
+                        </li>
+                    </ul>
                 </Well>
                 <div className="row">
                     <div className="col-sm-8">
@@ -92,15 +86,20 @@ class WorkExperience extends React.Component {
                     </div>
                 </div>
                 <Well>
-                    <div>
-                        <span>Documented NASA property creation, movement, and destruction</span>
-                    </div>
-                    <div>
-                        <span>Problem solved with supervisor for best process to store and retrieve data</span>
-                    </div>
-                    <div>
-                        <span>Understood and streamlined movement of information between departments</span>
-                    </div>
+                    <ul>
+                        <li>
+                            Improved ability for the logistics team to search and pull any data from NASA property creation, movement, and destruction
+                        </li>
+                        <li>
+                            Problem solved with supervisor for best process to store and retrieve data
+                        </li>
+                        <li>
+                            Standardized logistical data entry
+                        </li>
+                        <li>
+                            Streamlined data movement between departments
+                        </li>
+                    </ul>
                 </Well>
             </Panel>
         );

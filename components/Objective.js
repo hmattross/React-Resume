@@ -5,7 +5,7 @@ class Objective extends React.Component {
     render() {
         return(
             <Panel header="Objective">
-                Software Engineer and highly motivated individual with a strong experience in designing and implementing web service applications, problem solving skills, and ability to learn new technologies quickly.
+                Software Engineer and highly motivated individual with a strong experience in front end web applications, problem solving skills, and ability to learn new technologies quickly.
             </Panel>
         );
     }

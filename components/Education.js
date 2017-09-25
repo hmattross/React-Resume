@@ -13,7 +13,7 @@ class Education extends React.Component {
                         <span>Computer Engineering</span>
                     </div>
                     <div className="col-sm-4">
-                        <span>Fall 2011-Fall 2014</span>
+                        <span><b>Fall 2011-Fall 2014</b></span>
                     </div>
                 </div>
                 <div className="row">
@@ -24,7 +24,7 @@ class Education extends React.Component {
                         <span></span>
                     </div>
                     <div className="col-sm-4">
-                        <span>Fall 2009-Summer 2011</span>
+                        <span><b>Fall 2009-Summer 2011</b></span>
                     </div>
                 </div>
             </Panel>

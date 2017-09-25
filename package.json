@@ -1,20 +1,23 @@
 {
   "name": "ReactResume",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "ReactResume",
   "main": "server.js",
+  "author": "Matt Ross",
+  "license": "ISC",
   "bugs": "hmattross@gmial.com",
-  "contributors": [],
+  "contributors": [
+    "Matt Ross"
+  ],
   "repository": {
     "type": "github",
     "url": "https://github.com/hmattross/React-Resume"
   },
   "scripts": {
+    "start": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Matt Ross",
-  "license": "ISC",
   "dependencies": {
     "bootstrap-sass": "^3.3.7",
     "react": "^15.6.1",

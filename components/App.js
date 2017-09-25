@@ -4,7 +4,6 @@ import Banner from './Banner.js';
 import Info from './Info.js';
 import Objective from './Objective.js';
 import Education from './Education.js';
-import Languages from './Languages.js';
 import SkillsAndKnowledge from './SkillsAndKnowledge';
 import WorkExperience from './WorkExperience';
 import Footer from './Footer';
@@ -19,7 +18,6 @@ class App extends React.Component {
                 <div className="container">
                     <Objective />
                     <Education />
-                    <Languages />
                     <SkillsAndKnowledge />
                     <WorkExperience />
                 </div>
