@@ -10,7 +10,7 @@ class Education extends React.Component {
                         <span><b>University of Texas at Austin</b></span>
                     </div>
                     <div className="col-sm-4">
-                        <span>Computer Engineering</span>
+                        <span>Electrical Engineering</span>
                     </div>
                     <div className="col-sm-4">
                         <span><b>Fall 2011-Fall 2014</b></span>
