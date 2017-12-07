@@ -12,7 +12,7 @@ class Info extends React.Component {
                         <h5><b>832-277-6424</b></h5>
                     </div>
                     <div className="col-sm-4">
-                        <h5><b>19939 Chasewood Park, APT 5309, Houston, TX 77070</b></h5>
+                        <h5><b>5705 Diehl Trail, APT 3108, Austin, TX 78727</b></h5>
                     </div>
                 </div>
             </div>
